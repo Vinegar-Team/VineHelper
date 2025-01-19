@@ -107,6 +107,7 @@
 		},
 		{
 			"js": [
+				"scripts/_TierChanges.js",
 				"scripts/prebootLoader.js"
 			],
 			"matches": [
